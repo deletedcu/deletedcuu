@@ -16,13 +16,13 @@
 
 #### Senior Mobile | Certified Full Stack Developer
 
-**Logistics:**
-I have 12 years of experience in supply chain operations, with my primary account being responsible for is CEVA/DELL EMC computers international.
+***Logistics:***
+- I have 12 years of experience in supply chain operations, with my primary account being responsible for is CEVA/DELL EMC computers international.
 
-**Website developer-**
-using React.js and other JS libraries for a fast scalable interactive UI/UX.
+***Website developer-***
+- using React.js and other JS libraries for a fast scalable interactive UI/UX.
 
-**Full Stack Software Developer-**
+***Full Stack Software Developer-***
 - Base language:
   - JavaScript (JQuery)
 - Other language/libraries:
