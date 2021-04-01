@@ -14,6 +14,28 @@
 
 ---
 
+#### Senior Mobile | Certified Full Stack Developer
+
+##### Logistics:
+I have 12 years of experience in supply chain operations, with my primary account being responsible for is CEVA/DELL EMC computers international.
+
+##### Website developer-
+using React.js and other JS libraries for a fast scalable interactive UI/UX.
+
+##### Full Stack Software Developer-
+- Base language:
+JavaScript (JQuery)
+- Other language/libraries:
+Proficient in MERN stack (Mongo, Express, React, Node).
+Swift, Objective-C, Java, Swift (currently using)
+- Proficient with:
+Microsoft Visual Studio
+Learning Python utilizing PyCharm IDE
+Proficient in SQL 
+Slack
+Jira, ClicUp, Trello
+
+---
 
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=curest0x1021&show_icons=true&theme=light" />
@@ -72,14 +94,14 @@ Full Stack and client-managed deployments
 
    </p>
    
----   
+---
+
 <!--
 **curest0x1021/curest0x1021** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
 - 🌱 I’m currently learning ...
-
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
