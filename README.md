@@ -11,6 +11,17 @@
     <span>&nbsp;</span>
     <img src="https://img.shields.io/github/stars/curest0x1021?style=social" alt="GitHub Star Count" />
 </p>
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=curest0x1021&show_icons=true&theme=light&count_private=true" />
+</p>
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=curest0x1021&layout=compact" />
+</p>
+<!--
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=curest0x1021" />
+</p>
+-->
 
 ---
 
@@ -35,20 +46,6 @@
   - Proficient in SQL 
   - Slack
   - Jira, ClicUp, Trello
-
----
-
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=curest0x1021&show_icons=true&theme=light&count_private=true" />
-</p>
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=curest0x1021&layout=compact" />
-</p>
-<!--
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=curest0x1021" />
-</p>
--->
 
 ---
 
