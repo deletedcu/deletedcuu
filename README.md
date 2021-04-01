@@ -12,7 +12,8 @@
     <img src="https://img.shields.io/github/stars/curest0x1021?style=social" alt="GitHub Star Count" />
 </p>
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=curest0x1021&show_icons=true&theme=light&count_private=true" />
+    <img src="https://github-readme-stats.vercel.app/api?username=curest0x1021&show_icons=true&theme=light&count_private=true&hide=issues,contribs" />
+    <span>&nbsp;</span>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=curest0x1021&layout=compact" />
 </p>
 <!--
