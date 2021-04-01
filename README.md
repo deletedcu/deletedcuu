@@ -9,7 +9,7 @@
         <img src="https://img.shields.io/github/followers/tariq86.svg?label=follow&style=social" alt="GitHub Follower Count" />
     </a>
     <span>&nbsp;</span>
-        <img src="https://img.shields.io/github/stars/curest0x1021?style=social" alt="GitHub Star Count" />
+    <img src="https://img.shields.io/github/stars/curest0x1021?style=social" alt="GitHub Star Count" />
 </p>
 
 ---
