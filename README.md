@@ -1,6 +1,6 @@
-### Hi there 👋
+### Thanks for visiting 👋
 
-## 🔭 I’m currently working on:
+### 🔭 I’m currently working on:
 Full Stack and client-managed deployments
 
 <!--
