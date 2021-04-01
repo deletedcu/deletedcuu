@@ -41,13 +41,14 @@
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=curest0x1021&show_icons=true&theme=light&count_private=true" />
 </p>
-<p>
+<p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=curest0x1021&layout=compact" />
 </p>
-<p>
+<!--
+<p align="center">
     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=curest0x1021" />
 </p>
-
+-->
 ---
 
 ### 🔭 I’m currently working on:
@@ -78,7 +79,7 @@ Full Stack and client-managed deployments
     <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="32" alt="React" />
     &nbsp;
     <!-- Bootstrap -->
-    <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" width="32" alt="Bootstrap" />
+    <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plan.svg" width="32" alt="Bootstrap" />
     &nbsp;
     <!-- MySQL -->
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="32" alt="MySQL" />
@@ -119,7 +120,7 @@ Full Stack and client-managed deployments
     <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" width="32" alt="Docker" />
     &nbsp;
     <!-- Firebase -->
-    <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-original.svg" width="32" alt="Firebase" />
+    <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plan.svg" width="32" alt="Firebase" />
     &nbsp;
     <!-- Kotlin -->
     <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" width="32" alt="Kotlin" />
