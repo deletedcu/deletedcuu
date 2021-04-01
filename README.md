@@ -79,7 +79,7 @@ Full Stack and client-managed deployments
     <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="32" alt="React" />
     &nbsp;
     <!-- Bootstrap -->
-    <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plan.svg" width="32" alt="Bootstrap" />
+    <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg" width="32" alt="Bootstrap" />
     &nbsp;
     <!-- MySQL -->
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="32" alt="MySQL" />
@@ -120,7 +120,7 @@ Full Stack and client-managed deployments
     <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" width="32" alt="Docker" />
     &nbsp;
     <!-- Firebase -->
-    <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plan.svg" width="32" alt="Firebase" />
+    <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" width="32" alt="Firebase" />
     &nbsp;
     <!-- Kotlin -->
     <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" width="32" alt="Kotlin" />
