@@ -14,20 +14,6 @@
 
 ---
 
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=curest0x1021&show_icons=true&theme=light&count_private=true&hide=contribs" />
-</p>
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=curest0x1021&layout=compact" />
-</p>
-<!--
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=curest0x1021" />
-</p>
--->
-
----
-
 ### Senior Mobile | Certified Full Stack Developer
 <!--
 ***Logistics:***
@@ -54,6 +40,20 @@
 
 ### 🔭 I’m currently working on:
 Full Stack and client-managed deployments
+
+---
+
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=curest0x1021&show_icons=true&theme=light&count_private=true&hide=contribs" />
+</p>
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=curest0x1021&layout=compact" />
+</p>
+<!--
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=curest0x1021" />
+</p>
+-->
 
 ---
 
