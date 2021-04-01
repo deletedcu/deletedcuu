@@ -14,7 +14,7 @@
 
 ---
 
-### Senior Mobile | Certified Full Stack Developer
+### :computer:Senior Mobile | Certified Full Stack Developer
 <!--
 ***Logistics:***
 - I have 12 years of experience in supply chain operations, with my primary account being responsible for is **Curest Health Inc**.
