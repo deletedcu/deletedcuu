@@ -62,10 +62,10 @@ Full Stack and client-managed deployments
   <p>
     <br>
     <!-- JS -->
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="64" alt="JS" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="48" alt="JS" />
     &nbsp;
     <!-- HTML5 -->
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="64" alt="HTML5" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="48" alt="HTML5" />
     &nbsp;
     <!-- CSS3 -->
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="48" alt="CSS3" />
@@ -74,93 +74,94 @@ Full Stack and client-managed deployments
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="48" alt="Node.js" />
     &nbsp;
     <!-- Angular -->
-    <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" width="32" alt="Angular" />
+    <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" width="48" alt="Angular" />
     &nbsp;
     <!-- React -->
-    <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="32" alt="React" />
+    <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="48" alt="React" />
     &nbsp;
     <!-- Bootstrap -->
-    <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg" width="32" alt="Bootstrap" />
+    <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg" width="48" alt="Bootstrap" />
     &nbsp;
     <!-- MySQL -->
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="32" alt="MySQL" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="48" alt="MySQL" />
     &nbsp;
     <!-- MongoDB -->
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="32" alt="MongoDB" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="48" alt="MongoDB" />
     &nbsp;
     <!-- GitHub -->
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="32" alt="GitHub" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="48" alt="GitHub" />
     &nbsp;
     <!-- Git -->
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="32" alt="Git" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="48" alt="Git" />
     &nbsp;
     <!-- NPM -->
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" width="32" alt="NPM" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" width="48" alt="NPM" />
     &nbsp;
     <!-- Visual Studio -->
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" width="32" alt="Visual Studio" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" width="48" alt="Visual Studio" />
     &nbsp;
     <!-- Swift -->
-    <img src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg" width="32" alt="Swift" />
+    <img src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg" width="48" alt="Swift" />
+    &nbsp;
     <!-- Android Studio -->
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" width="32" alt="Android Studio" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" width="48" alt="Android Studio" />
     &nbsp;
     <!-- Apple -->
-    <img src="https://github.com/devicons/devicon/blob/master/icons/apple/apple-original.svg" width="32" alt="Apple" />
+    <img src="https://github.com/devicons/devicon/blob/master/icons/apple/apple-original.svg" width="48" alt="Apple" />
     &nbsp;
     <!-- Amazon Web Services -->
-    <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original.svg" width="32" alt="Amazon Web Services" />
+    <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original.svg" width="48" alt="Amazon Web Services" />
     &nbsp;
     <!-- Apache -->
-    <img src="https://github.com/devicons/devicon/blob/master/icons/apache/apache-original.svg" width="32" alt="Apache" />
+    <img src="https://github.com/devicons/devicon/blob/master/icons/apache/apache-original.svg" width="48" alt="Apache" />
     &nbsp;
     <!-- Bitbucket -->
-    <img src="https://github.com/devicons/devicon/blob/master/icons/bitbucket/bitbucket-original.svg" width="32" alt="Bitbucket" />
+    <img src="https://github.com/devicons/devicon/blob/master/icons/bitbucket/bitbucket-original.svg" width="48" alt="Bitbucket" />
     &nbsp;
     <!-- Chrome -->
-    <img src="https://github.com/devicons/devicon/blob/master/icons/chrome/chrome-original.svg" width="32" alt="Chrome" />
+    <img src="https://github.com/devicons/devicon/blob/master/icons/chrome/chrome-original.svg" width="48" alt="Chrome" />
     &nbsp;
     <!-- D3.js -->
-    <img src="https://github.com/devicons/devicon/blob/master/icons/d3js/d3js-original.svg" width="32" alt="D3.js" />
+    <img src="https://github.com/devicons/devicon/blob/master/icons/d3js/d3js-original.svg" width="48" alt="D3.js" />
     &nbsp;
     <!-- Docker -->
-    <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" width="32" alt="Docker" />
+    <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" width="48" alt="Docker" />
     &nbsp;
     <!-- Facebook -->
-    <img src="https://github.com/devicons/devicon/blob/master/icons/facebook/facebook-original.svg" width="32" alt="Facebook" />
+    <img src="https://github.com/devicons/devicon/blob/master/icons/facebook/facebook-original.svg" width="48" alt="Facebook" />
     &nbsp;
     <!-- Firebase -->
-    <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" width="32" alt="Firebase" />
+    <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" width="48" alt="Firebase" />
     &nbsp;
     <!-- Firefox -->
-    <img src="https://github.com/devicons/devicon/blob/master/icons/firefox/firefox-original.svg" width="32" alt="Firefox" />
+    <img src="https://github.com/devicons/devicon/blob/master/icons/firefox/firefox-original.svg" width="48" alt="Firefox" />
     &nbsp;
     <!-- Google -->
-    <img src="https://github.com/devicons/devicon/blob/master/icons/google/google-original.svg" width="32" alt="Google" />
+    <img src="https://github.com/devicons/devicon/blob/master/icons/google/google-original.svg" width="48" alt="Google" />
     &nbsp;
     <!-- Heroku -->
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-original.svg" width="32" alt="Heroku" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-original.svg" width="48" alt="Heroku" />
     &nbsp;
     <!-- jQuery -->
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg" width="32" alt="jQuery" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg" width="48" alt="jQuery" />
     &nbsp;
     <!-- Java -->
-    <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width="32" alt="Java" />
+    <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width="48" alt="Java" />
     &nbsp;
     <!-- Kotlin -->
-    <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" width="32" alt="Kotlin" />
+    <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" width="48" alt="Kotlin" />
     &nbsp;
     <!-- PHP -->
-    <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" width="32" alt="PHP" />
+    <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" width="48" alt="PHP" />
     &nbsp;
     <!-- Python -->
-    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="32" alt="Python" />
+    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="48" alt="Python" />
     &nbsp;
     <!-- Slack -->
-    <img src="https://github.com/devicons/devicon/blob/master/icons/slack/slack-original.svg" width="32" alt="Slack" />
+    <img src="https://github.com/devicons/devicon/blob/master/icons/slack/slack-original.svg" width="48" alt="Slack" />
     &nbsp;
     <!-- Webpack -->
-    <img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg" width="32" alt="Webpack" />
+    <img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg" width="48" alt="Webpack" />
     &nbsp;
 
    </p>
