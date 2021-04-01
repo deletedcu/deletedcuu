@@ -108,20 +108,41 @@ Full Stack and client-managed deployments
     <!-- Apple -->
     <img src="https://github.com/devicons/devicon/blob/master/icons/apple/apple-original.svg" width="32" alt="Apple" />
     &nbsp;
-    <!-- Express.js -->
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="32" alt="Express.js" />
+    <!-- Amazon Web Services -->
+    <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="32" alt="Amazon Web Services" />
     &nbsp;
-    <!-- jQuery -->
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg" width="32" alt="jQuery" />
+    <!-- Apache -->
+    <img src="https://github.com/devicons/devicon/blob/master/icons/apache/apache-original.svg" width="32" alt="Apache" />
     &nbsp;
-    <!-- Heroku -->
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-original.svg" width="32" alt="Heroku" />
+    <!-- Bitbucket -->
+    <img src="https://github.com/devicons/devicon/blob/master/icons/bitbucket/bitbucket-original.svg" width="32" alt="Bitbucket" />
+    &nbsp;
+    <!-- Chrome -->
+    <img src="https://github.com/devicons/devicon/blob/master/icons/chrome/chrome-original.svg" width="32" alt="Chrome" />
     &nbsp;
     <!-- Docker -->
     <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" width="32" alt="Docker" />
     &nbsp;
+    <!-- Express.js -->
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="32" alt="Express.js" />
+    &nbsp;
+    <!-- Facebook -->
+    <img src="https://github.com/devicons/devicon/blob/master/icons/facebook/facebook-original.svg" width="32" alt="Facebook" />
+    &nbsp;
     <!-- Firebase -->
     <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" width="32" alt="Firebase" />
+    &nbsp;
+    <!-- Firefox -->
+    <img src="https://github.com/devicons/devicon/blob/master/icons/firefox/firefox-original.svg" width="32" alt="Firefox" />
+    &nbsp;
+    <!-- Google -->
+    <img src="https://github.com/devicons/devicon/blob/master/icons/google/google-original.svg" width="32" alt="Google" />
+    &nbsp;
+    <!-- Heroku -->
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-original.svg" width="32" alt="Heroku" />
+    &nbsp;
+    <!-- jQuery -->
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg" width="32" alt="jQuery" />
     &nbsp;
     <!-- Kotlin -->
     <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" width="32" alt="Kotlin" />
