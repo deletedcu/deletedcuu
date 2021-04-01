@@ -26,8 +26,9 @@
 - Base language:
   - JavaScript (JQuery)
 - Other language/libraries:
-  - Proficient in MERN stack (Mongo, Express, React, Node).
-  - Swift, Objective-C, Java, Swift (currently using)
+  - Proficient in MERN stack (Mongo, Express, React, Node)
+  - PHP, Laravel, Node.js, Angular, jQuery
+  - Swift, Objective-C, Java, Kotlin, React Native (currently using)
 - Proficient with:
   - Microsoft Visual Studio
   - Learning Python utilizing PyCharm IDE
