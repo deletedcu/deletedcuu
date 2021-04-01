@@ -120,11 +120,11 @@ Full Stack and client-managed deployments
     <!-- Chrome -->
     <img src="https://github.com/devicons/devicon/blob/master/icons/chrome/chrome-original.svg" width="32" alt="Chrome" />
     &nbsp;
+    <!-- D3.js -->
+    <img src="https://github.com/devicons/devicon/blob/master/icons/d3js/d3js-original.svg" width="32" alt="D3.js" />
+    &nbsp;
     <!-- Docker -->
     <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" width="32" alt="Docker" />
-    &nbsp;
-    <!-- Express.js -->
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="32" alt="Express.js" />
     &nbsp;
     <!-- Facebook -->
     <img src="https://github.com/devicons/devicon/blob/master/icons/facebook/facebook-original.svg" width="32" alt="Facebook" />
@@ -143,6 +143,9 @@ Full Stack and client-managed deployments
     &nbsp;
     <!-- jQuery -->
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg" width="32" alt="jQuery" />
+    &nbsp;
+    <!-- Java -->
+    <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width="32" alt="Java" />
     &nbsp;
     <!-- Kotlin -->
     <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" width="32" alt="Kotlin" />
