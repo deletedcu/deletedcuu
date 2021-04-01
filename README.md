@@ -16,24 +16,24 @@
 
 #### Senior Mobile | Certified Full Stack Developer
 
-##### Logistics:
+** Logistics: **
 I have 12 years of experience in supply chain operations, with my primary account being responsible for is CEVA/DELL EMC computers international.
 
-##### Website developer-
+** Website developer- **
 using React.js and other JS libraries for a fast scalable interactive UI/UX.
 
-##### Full Stack Software Developer-
+** Full Stack Software Developer- **
 - Base language:
-JavaScript (JQuery)
+  - JavaScript (JQuery)
 - Other language/libraries:
-Proficient in MERN stack (Mongo, Express, React, Node).
-Swift, Objective-C, Java, Swift (currently using)
+  - Proficient in MERN stack (Mongo, Express, React, Node).
+  - Swift, Objective-C, Java, Swift (currently using)
 - Proficient with:
-Microsoft Visual Studio
-Learning Python utilizing PyCharm IDE
-Proficient in SQL 
-Slack
-Jira, ClicUp, Trello
+  - Microsoft Visual Studio
+  - Learning Python utilizing PyCharm IDE
+  - Proficient in SQL 
+  - Slack
+  - Jira, ClicUp, Trello
 
 ---
 
