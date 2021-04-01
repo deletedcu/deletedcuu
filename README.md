@@ -109,7 +109,7 @@ Full Stack and client-managed deployments
     <img src="https://github.com/devicons/devicon/blob/master/icons/apple/apple-original.svg" width="32" alt="Apple" />
     &nbsp;
     <!-- Amazon Web Services -->
-    <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="32" alt="Amazon Web Services" />
+    <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original.svg" width="32" alt="Amazon Web Services" />
     &nbsp;
     <!-- Apache -->
     <img src="https://github.com/devicons/devicon/blob/master/icons/apache/apache-original.svg" width="32" alt="Apache" />
