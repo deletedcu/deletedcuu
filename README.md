@@ -15,10 +15,10 @@
 ---
 
 ### Senior Mobile | Certified Full Stack Developer
-
+<!--
 ***Logistics:***
 - I have 12 years of experience in supply chain operations, with my primary account being responsible for is **Curest Health Inc**.
-
+-->
 ***Website developer-***
 - using React.js and other JS libraries for a fast scalable interactive UI/UX.
 
