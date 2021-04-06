@@ -12,10 +12,6 @@
     <a href="https://github.com/curest0x1021?tab=stars">
         <img src="https://img.shields.io/github/stars/curest0x1021?style=flat&color=yellowgreen&logo=github" alt="GitHub Star Count" />
     </a>
-    <span>&nbsp;</span>
-    <a href="https://github.com/curest0x1021?tab=watchers">
-        <img src="https://img.shields.io/github/watchers/curest0x1021?style=flat&color=yellowgreen&logo=github" alt="GitHub Star Count" />
-    </a>
 </p>
 
 ---
