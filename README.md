@@ -6,7 +6,7 @@
     </a>
     <span>&nbsp;</span>
     <a href="https://github.com/curest0x1021?tab=followers">
-        <img src="https://img.shields.io/github/followers/curest0x1021?label=follow&style=for-the-badge" alt="GitHub Follower Count" />
+        <img src="https://img.shields.io/github/followers/curest0x1021?label=follow&style=social" alt="GitHub Follower Count" />
     </a>
     <span>&nbsp;</span>
     <a href="https://github.com/curest0x1021?tab=stars">
