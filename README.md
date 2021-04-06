@@ -30,11 +30,11 @@
   - PHP, Laravel, Node.js, Angular, jQuery
   - Swift, Objective-C, Java, Kotlin, React Native (currently using)
 - Proficient with:
-  - Microsoft Visual Studio
   - Learning Python utilizing PyCharm IDE
   - Proficient in SQL 
   - Slack
   - Jira, ClicUp, Trello
+  - Android Studio, Xcode, VS Code
 
 ---
 
