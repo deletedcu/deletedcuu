@@ -87,6 +87,15 @@ Full Stack and client-managed deployments
     <!-- Bootstrap -->
     <img src="https://img.shields.io/badge/Bootstrap-7952b3?style=flat&logo=bootstrap&logoColor=white" height="32" alt="Bootstrap" />
     &nbsp;
+    <!-- jQuery -->
+    <img src="https://img.shields.io/badge/jQuery-0769ad?style=flat&logo=jQuery" height="32" alt="jQuery" />
+    &nbsp;
+    <!-- PureScript -->
+    <img src="https://img.shields.io/badge/PureScript-14161a?style=flat&logo=purescript&logoColor=white" height="32" alt="PureScript" />
+    &nbsp;
+    <!-- D3.js -->
+    <img src="https://img.shields.io/badge/D3.js-f9a03c?style=flat&logo=d3.js&logoColor=white" height="32" alt="D3.js" />
+    &nbsp;
     <!-- MySQL -->
     <img src="https://img.shields.io/badge/MySQL-4479a1?style=flat&logo=mysql&logoColor=white" height="32" alt="MySQL" />
     &nbsp;
@@ -126,9 +135,6 @@ Full Stack and client-managed deployments
     <!-- Apache -->
     <img src="https://img.shields.io/badge/Apache-d22128?style=flat&logo=apache&logoColor=white" height="32" alt="Apache" />
     &nbsp;
-    <!-- D3.js -->
-    <img src="https://img.shields.io/badge/D3.js-f9a03c?style=flat&logo=d3.js&logoColor=white" height="32" alt="D3.js" />
-    &nbsp;
     <!-- Docker -->
     <img src="https://img.shields.io/badge/Docker-2496ed?style=flat&logo=docker&logoColor=white" height="32" alt="Docker" />
     &nbsp;
@@ -140,12 +146,6 @@ Full Stack and client-managed deployments
     &nbsp;
     <!-- Heroku -->
     <img src="https://img.shields.io/badge/Heroku-430098?style=flat&logo=heroku" height="32" alt="Heroku" />
-    &nbsp;
-    <!-- jQuery -->
-    <img src="https://img.shields.io/badge/jQuery-0769ad?style=flat&logo=jQuery" height="32" alt="jQuery" />
-    &nbsp;
-    <!-- PureScript -->
-    <img src="https://img.shields.io/badge/PureScript-14161a?style=flat&logo=purescript&logoColor=white" height="32" alt="PureScript" />
     &nbsp;
     <!-- PHP -->
     <img src="https://img.shields.io/badge/PHP-777bb4?style=flat&logo=php&logoColor=white" height="32" alt="PHP" />
