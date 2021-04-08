@@ -138,6 +138,9 @@ Full Stack and client-managed deployments
     <!-- jQuery -->
     <img src="https://img.shields.io/badge/jQuery-0769ad?style=flat&logo=jQuery" height="32" alt="jQuery" />
     &nbsp;
+    <!-- PureScript -->
+    <img src="https://img.shields.io/badge/PureScript-14161a?style=flat&logo=purescript&logoColor=white" height="32" alt="PureScript" />
+    &nbsp;
     <!-- PHP -->
     <img src="https://img.shields.io/badge/PHP-777bb4?style=flat&logo=php&logoColor=white" height="32" alt="PHP" />
     &nbsp;
