@@ -73,7 +73,7 @@ Full Stack and client-managed deployments
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" height="32" alt="CSS3" />
     &nbsp;
     <!-- Node.js -->
-    <img src="https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white" height="32" alt="Node.js" />
+    <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" height="32" alt="Node.js" />
     &nbsp;
     <!-- Angular -->
     <img src="https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white" height="32" alt="Angular" />
@@ -82,88 +82,73 @@ Full Stack and client-managed deployments
     <img src="https://img.shields.io/badge/React-00ccbb?style=flat&logo=react&logoColor=white" height="32" alt="React" />
     &nbsp;
     <!-- Bootstrap -->
-    <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg" width="48" alt="Bootstrap" />
+    <img src="https://img.shields.io/badge/Bootstrap-7952b3?style=flat&logo=bootstrap&logoColor=white" height="32" alt="Bootstrap" />
     &nbsp;
     <!-- MySQL -->
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="48" alt="MySQL" />
+    <img src="https://img.shields.io/badge/MySQL-4479a1?style=flat&logo=mysql&logoColor=white" height="32" alt="MySQL" />
     &nbsp;
     <!-- MongoDB -->
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="48" alt="MongoDB" />
+    <img src="https://img.shields.io/badge/MongoDB-47a248?style=flat&logo=mongodb&logoColor=white" height="32" alt="MongoDB" />
     &nbsp;
     <!-- GitHub -->
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="48" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-181718?style=flat&logo=github&logoColor=white" height="32" alt="GitHub" />
     &nbsp;
     <!-- Git -->
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="48" alt="Git" />
-    &nbsp;
-    <!-- NPM -->
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" width="48" alt="NPM" />
-    &nbsp;
-    <!-- Visual Studio -->
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" width="48" alt="Visual Studio" />
-    &nbsp;
-    <!-- Swift -->
-    <img src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg" width="48" alt="Swift" />
-    &nbsp;
-    <!-- Android Studio -->
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" width="48" alt="Android Studio" />
-    &nbsp;
-    <!-- Apple -->
-    <img src="https://github.com/devicons/devicon/blob/master/icons/apple/apple-original.svg" width="48" alt="Apple" />
-    &nbsp;
-    <!-- Amazon Web Services -->
-    <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original.svg" width="48" alt="Amazon Web Services" />
-    &nbsp;
-    <!-- Apache -->
-    <img src="https://github.com/devicons/devicon/blob/master/icons/apache/apache-original.svg" width="48" alt="Apache" />
+    <img src="https://img.shields.io/badge/Git-f05032?style=flat&logo=git&logoColor=white" height="32" alt="Git" />
     &nbsp;
     <!-- Bitbucket -->
-    <img src="https://github.com/devicons/devicon/blob/master/icons/bitbucket/bitbucket-original.svg" width="48" alt="Bitbucket" />
+    <img src="https://img.shields.io/badge/Bitbucket-0052dc?style=flat&logo=bitbucket&logoColor=white" height="32" alt="Bitbucket" />
     &nbsp;
-    <!-- Chrome -->
-    <img src="https://github.com/devicons/devicon/blob/master/icons/chrome/chrome-original.svg" width="48" alt="Chrome" />
+    <!-- NPM -->
+    <img src="https://img.shields.io/badge/npm-cb3837?style=flat&logo=npm&logoColor=white" height="32" alt="NPM" />
     &nbsp;
-    <!-- D3.js -->
-    <img src="https://github.com/devicons/devicon/blob/master/icons/d3js/d3js-original.svg" width="48" alt="D3.js" />
-    &nbsp;
-    <!-- Docker -->
-    <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" width="48" alt="Docker" />
-    &nbsp;
-    <!-- Facebook -->
-    <img src="https://github.com/devicons/devicon/blob/master/icons/facebook/facebook-original.svg" width="48" alt="Facebook" />
-    &nbsp;
-    <!-- Firebase -->
-    <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" width="48" alt="Firebase" />
-    &nbsp;
-    <!-- Firefox -->
-    <img src="https://github.com/devicons/devicon/blob/master/icons/firefox/firefox-original.svg" width="48" alt="Firefox" />
-    &nbsp;
-    <!-- Google -->
-    <img src="https://github.com/devicons/devicon/blob/master/icons/google/google-original.svg" width="48" alt="Google" />
-    &nbsp;
-    <!-- Heroku -->
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-original.svg" width="48" alt="Heroku" />
-    &nbsp;
-    <!-- jQuery -->
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg" width="48" alt="jQuery" />
+    <!-- Swift -->
+    <img src="https://img.shields.io/badge/Swift-FA7343?style=flat&logo=swift&logoColor=white" height="32" alt="Swift" />
     &nbsp;
     <!-- Java -->
-    <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width="48" alt="Java" />
+    <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white" height="32" alt="Java" />
     &nbsp;
     <!-- Kotlin -->
-    <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" width="48" alt="Kotlin" />
+    <img src="https://img.shields.io/badge/Kotlin-0095d5?style=flat&logo=kotlin&logoColor=white" height="32" alt="Kotlin" />
+    &nbsp;
+    <!-- Amazon Web Services -->
+    <img src="https://img.shields.io/badge/Amazon%20AWS-232f3e?style=flat&logo=amazon%20aws&logoColor=white" height="32" alt="Amazon Web Services" />
+    &nbsp;
+    <!-- Apache -->
+    <img src="https://img.shields.io/badge/Apache-d22128?style=flat&logo=apache&logoColor=white" height="32" alt="Apache" />
+    &nbsp;
+    <!-- D3.js -->
+    <img src="https://img.shields.io/badge/D3.js-f9a03c?style=flat&logo=d3.js&logoColor=white" height="32" alt="D3.js" />
+    &nbsp;
+    <!-- Docker -->
+    <img src="https://img.shields.io/badge/Docker-2496ed?style=flat&logo=docker&logoColor=white" height="32" alt="Docker" />
+    &nbsp;
+    <!-- Facebook -->
+    <img src="https://img.shields.io/badge/Facebook-1877f2?style=flat&logo=facebook&logoColor=white" height="32" alt="Facebook" />
+    &nbsp;
+    <!-- Firebase -->
+    <img src="https://img.shields.io/badge/Firebase-ffca28?style=flat&logo=firebase&logoColor=black" height="32" alt="Firebase" />
+    &nbsp;
+    <!-- Heroku -->
+    <img src="https://img.shields.io/badge/Heroku-430098?style=flat&logo=heroku" height="32" alt="Heroku" />
+    &nbsp;
+    <!-- jQuery -->
+    <img src="https://img.shields.io/badge/jQuery-0769ad?style=flat&logo=jQuery" height="32" alt="jQuery" />
     &nbsp;
     <!-- PHP -->
-    <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" width="48" alt="PHP" />
+    <img src="https://img.shields.io/badge/PHP-777bb4?style=flat&logo=php&logoColor=white" height="32" alt="PHP" />
+    &nbsp;
+    <!-- Laravel -->
+    <img src="https://img.shields.io/badge/Laravel-ff2d20?style=flat&logo=laravel&logoColor=white" height="32" alt="Laravel" />
     &nbsp;
     <!-- Python -->
-    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="48" alt="Python" />
+    <img src="https://img.shields.io/badge/Python-3776ab?style=flat&logo=python&logoColor=white" height="32" alt="Python" />
     &nbsp;
     <!-- Slack -->
-    <img src="https://github.com/devicons/devicon/blob/master/icons/slack/slack-original.svg" width="48" alt="Slack" />
+    <img src="https://img.shields.io/badge/Slack-4a154b?style=flat&logo=slack&logoColor=white" height="32" alt="Slack" />
     &nbsp;
     <!-- Webpack -->
-    <img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg" width="48" alt="Webpack" />
+    <img src="https://img.shields.io/badge/Webpack-8dd6f9?style=flat&logo=webpack&logoColor=black" height="32" alt="Webpack" />
     &nbsp;
 
    </p>
