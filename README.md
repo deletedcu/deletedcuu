@@ -81,6 +81,9 @@ Full Stack and client-managed deployments
     <!-- React -->
     <img src="https://img.shields.io/badge/React-00ccbb?style=flat&logo=react&logoColor=white" height="32" alt="React" />
     &nbsp;
+    <!-- Vue.js -->
+    <img src="https://img.shields.io/badge/Vue.js-4fc08d?style=flat&logo=vue.js&logoColor=white" height="32" alt="Vue.js" />
+    &nbsp;
     <!-- Bootstrap -->
     <img src="https://img.shields.io/badge/Bootstrap-7952b3?style=flat&logo=bootstrap&logoColor=white" height="32" alt="Bootstrap" />
     &nbsp;
