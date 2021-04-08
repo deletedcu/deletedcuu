@@ -64,22 +64,22 @@ Full Stack and client-managed deployments
   <p>
     <br>
     <!-- JS -->
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=black" height="32" alt="JS" />
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?flat=plastic&logo=javascript&logoColor=black" height="32" alt="JS" />
     &nbsp;
     <!-- HTML5 -->
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=html5&logoColor=white" height="32" alt="HTML5" />
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" height="32" alt="HTML5" />
     &nbsp;
     <!-- CSS3 -->
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=plastic&logo=css3&logoColor=white" height="32" alt="CSS3" />
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" height="32" alt="CSS3" />
     &nbsp;
     <!-- Node.js -->
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="48" alt="Node.js" />
+    <img src="https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white" height="32" alt="Node.js" />
     &nbsp;
     <!-- Angular -->
-    <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" width="48" alt="Angular" />
+    <img src="https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white" height="32" alt="Angular" />
     &nbsp;
     <!-- React -->
-    <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="48" alt="React" />
+    <img src="https://img.shields.io/badge/React-00ccbb?style=flat&logo=react&logoColor=white" height="32" alt="React" />
     &nbsp;
     <!-- Bootstrap -->
     <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg" width="48" alt="Bootstrap" />
