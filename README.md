@@ -96,6 +96,9 @@ Full Stack and client-managed deployments
     <!-- D3.js -->
     <img src="https://img.shields.io/badge/D3.js-f9a03c?style=flat&logo=d3.js&logoColor=white" height="32" alt="D3.js" />
     &nbsp;
+    <!-- NPM -->
+    <img src="https://img.shields.io/badge/npm-cb3837?style=flat&logo=npm&logoColor=white" height="32" alt="NPM" />
+    &nbsp;
     <!-- MySQL -->
     <img src="https://img.shields.io/badge/MySQL-4479a1?style=flat&logo=mysql&logoColor=white" height="32" alt="MySQL" />
     &nbsp;
@@ -116,9 +119,6 @@ Full Stack and client-managed deployments
     &nbsp;
     <!-- Trello -->
     <img src="https://img.shields.io/badge/Trello-0079bf?style=flat&logo=trello&logoColor=white" height="32" alt="Trello" />
-    &nbsp;
-    <!-- NPM -->
-    <img src="https://img.shields.io/badge/npm-cb3837?style=flat&logo=npm&logoColor=white" height="32" alt="NPM" />
     &nbsp;
     <!-- Swift -->
     <img src="https://img.shields.io/badge/Swift-FA7343?style=flat&logo=swift&logoColor=white" height="32" alt="Swift" />
