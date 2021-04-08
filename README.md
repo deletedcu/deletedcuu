@@ -64,7 +64,7 @@ Full Stack and client-managed deployments
   <p>
     <br>
     <!-- JS -->
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="48" alt="JS" />
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&labelColor=white" alt="JS" />
     &nbsp;
     <!-- HTML5 -->
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="48" alt="HTML5" />
