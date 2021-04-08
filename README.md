@@ -102,6 +102,12 @@ Full Stack and client-managed deployments
     <!-- Bitbucket -->
     <img src="https://img.shields.io/badge/Bitbucket-0052dc?style=flat&logo=bitbucket&logoColor=white" height="32" alt="Bitbucket" />
     &nbsp;
+    <!-- Jira -->
+    <img src="https://img.shields.io/badge/Jira-0052cc?style=flat&logo=jira&logoColor=white" height="32" alt="Jira" />
+    &nbsp;
+    <!-- Trello -->
+    <img src="https://img.shields.io/badge/Trello-0079bf?style=flat&logo=trello&logoColor=white" height="32" alt="Trello" />
+    &nbsp;
     <!-- NPM -->
     <img src="https://img.shields.io/badge/npm-cb3837?style=flat&logo=npm&logoColor=white" height="32" alt="NPM" />
     &nbsp;
