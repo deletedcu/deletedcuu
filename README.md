@@ -130,7 +130,7 @@ Full Stack and client-managed deployments
     <img src="https://img.shields.io/badge/Kotlin-0095d5?style=flat&logo=kotlin&logoColor=white" height="32" alt="Kotlin" />
     &nbsp;
     <!-- Amazon Web Services -->
-    <img src="https://img.shields.io/badge/Amazon%20AWS-232f3e?style=flat&logo=amazon%20aws&logoColor=white" height="32" alt="Amazon Web Services" />
+    <img src="https://img.shields.io/badge/AWS-232f3e?style=flat&logo=amazon%20aws&logoColor=white" height="32" alt="Amazon Web Services" />
     &nbsp;
     <!-- Apache -->
     <img src="https://img.shields.io/badge/Apache-d22128?style=flat&logo=apache&logoColor=white" height="32" alt="Apache" />
