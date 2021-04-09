@@ -76,7 +76,7 @@ Full Stack and client-managed deployments
     <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" height="32" alt="Node.js" />
     &nbsp;
     <!-- Angular -->
-    <img src="https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white" height="32" alt="Angular" />
+    <img src="https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angularjs&logoColor=white" height="32" alt="Angular" />
     &nbsp;
     <!-- React -->
     <img src="https://img.shields.io/badge/React-00ccbb?style=flat&logo=react&logoColor=white" height="32" alt="React" />
