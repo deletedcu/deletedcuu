@@ -163,10 +163,10 @@ Full Stack and client-managed deployments
     <img src="https://img.shields.io/badge/Webpack-8dd6f9?style=flat&logo=webpack&logoColor=black" height="32" alt="Webpack" />
     &nbsp;
     <!-- Xcode -->
-    <img src="https://img.shields.io/badge/Xcode-147efb?style=flat&logo=xcode&logoColor=black" height="32" alt="Xcode" />
+    <img src="https://img.shields.io/badge/Xcode-147efb?style=flat&logo=xcode&logoColor=white" height="32" alt="Xcode" />
     &nbsp;
     <!-- Android Studio -->
-    <img src="https://img.shields.io/badge/Android%20Studio-3ddc84?style=flat&logo=android%20studio&logoColor=black" height="32" alt="Android Studio" />
+    <img src="https://img.shields.io/badge/Android%20Studio-3ddc84?style=flat&logo=android%20studio&logoColor=white" height="32" alt="Android Studio" />
     &nbsp;
 
    </p>
