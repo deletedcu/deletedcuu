@@ -39,8 +39,6 @@
 ## 🔭 I’m currently working on:
 Full Stack and client-managed deployments
 
----
-
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=curest0x1021&show_icons=true&theme=light&count_private=true&hide=contribs" />
 </p>
