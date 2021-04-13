@@ -62,7 +62,6 @@ Full Stack and client-managed deployments
 ### 🌱 Technologies and Frameworks
 
   <p>
-    <br>
     <!-- JS -->
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?flat=plastic&logo=javascript&logoColor=black" height="32" alt="JS" />
     &nbsp;
