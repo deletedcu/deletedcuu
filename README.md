@@ -1,4 +1,4 @@
-### Thanks for visiting 👋
+## Thanks for visiting 👋
 <p align="center">
     <span>&nbsp;</span>
     <a href="https://github.com/curest0x1021/curest0x1021">
@@ -14,9 +14,7 @@
     </a>
 </p>
 
----
-
-### 💻📱 Senior Mobile | Certified Full Stack Developer ✨✨✨✨✨
+## 💻📱 Senior Mobile | Certified Full Stack Developer ✨✨✨✨✨
 <!--
 ***Logistics:***
 - I have 12 years of experience in supply chain operations, with my primary account being responsible for is **Curest Health Inc**.
@@ -38,9 +36,7 @@
   - Jira, ClicUp, Trello
   - Android Studio, Xcode, VS Code
 
----
-
-### 🔭 I’m currently working on:
+## 🔭 I’m currently working on:
 Full Stack and client-managed deployments
 
 ---
@@ -57,11 +53,9 @@ Full Stack and client-managed deployments
 </p>
 -->
 
----
+## 🌱 Technologies and Frameworks
 
-### 🌱 Technologies and Frameworks
-
-  <p>
+<p>
     <!-- JS -->
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?flat=plastic&logo=javascript&logoColor=black" height="32" alt="JS" />
     &nbsp;
@@ -167,10 +161,8 @@ Full Stack and client-managed deployments
     <!-- Android Studio -->
     <img src="https://img.shields.io/badge/Android%20Studio-3ddc84?style=flat&logo=android%20studio&logoColor=white" height="32" alt="Android Studio" />
     &nbsp;
-
-   </p>
+</p>
    
----
 
 <!--
 **curest0x1021/curest0x1021** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
