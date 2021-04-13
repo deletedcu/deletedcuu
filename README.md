@@ -1,4 +1,4 @@
-## Thanks for visiting 👋
+### Thanks for visiting 👋
 <p align="center">
     <span>&nbsp;</span>
     <a href="https://github.com/curest0x1021/curest0x1021">
@@ -163,6 +163,7 @@ Full Stack and client-managed deployments
     &nbsp;
 </p>
    
+---
 
 <!--
 **curest0x1021/curest0x1021** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
