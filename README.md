@@ -39,16 +39,6 @@
 ## 🔭 I’m currently working on:
 Full Stack and client-managed deployments
 
-## 🏆 My Github Stats:
-<div>
-<a href="https://github-readme-stats.vercel.app/api?username=curest0x1021&show_icons=true&theme=light&count_private=true&hide=contribs">
-    <img align="left" src="https://github-readme-stats.vercel.app/api?username=curest0x1021&show_icons=true&theme=light&count_private=true&hide=contribs" />
-</a>
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=curest0x1021&layout=compact">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=curest0x1021&layout=compact" />
-</a>
-</div>
-
 <!--
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=curest0x1021" />
@@ -184,4 +174,14 @@ Here are some ideas to get you started:
 <div align="center">
     <img src="https://forthebadge.com/images/badges/built-with-love.svg" />
     <img src="https://forthebadge.com/images/badges/built-by-developers.svg" />
+</div>
+
+## 🏆 My Github Stats:
+<div>
+<a href="https://github-readme-stats.vercel.app/api?username=curest0x1021&show_icons=true&theme=light&count_private=true&hide=contribs">
+    <img align="left" src="https://github-readme-stats.vercel.app/api?username=curest0x1021&show_icons=true&theme=light&count_private=true&hide=contribs" />
+</a>
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=curest0x1021&layout=compact">
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=curest0x1021&layout=compact" />
+</a>
 </div>
