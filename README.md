@@ -178,10 +178,10 @@ Here are some ideas to get you started:
 
 ## 🏆 My Github Stats:
 <div>
-<a href="https://github-readme-stats.vercel.app/api?username=curest0x1021&show_icons=true&theme=light&count_private=true&hide=contribs">
-    <img align="left" src="https://github-readme-stats.vercel.app/api?username=curest0x1021&show_icons=true&theme=light&count_private=true&hide=contribs" />
+<a href="https://github-readme-stats.vercel.app/api?username=curest0x1021&show_icons=true&theme=tokyonight">
+    <img align="left" src="https://github-readme-stats.vercel.app/api?username=curest0x1021&show_icons=true&theme=tokyonight" />
 </a>
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=curest0x1021&layout=compact">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=curest0x1021&layout=compact" />
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=curest0x1021&theme=tokyonight">
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=curest0x1021&theme=tokyonight" />
 </a>
 </div>
