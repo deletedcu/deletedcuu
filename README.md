@@ -42,10 +42,10 @@ Full Stack and client-managed deployments
 ## 🏆 My Github Stats:
 <div>
 <a href="https://github-readme-stats.vercel.app/api?username=curest0x1021&show_icons=true&theme=light&count_private=true&hide=contribs">
-    <img src="https://github-readme-stats.vercel.app/api?username=curest0x1021&show_icons=true&theme=light&count_private=true&hide=contribs" />
+    <img align="left" src="https://github-readme-stats.vercel.app/api?username=curest0x1021&show_icons=true&theme=light&count_private=true&hide=contribs" />
 </a>
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=curest0x1021&layout=compact">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=curest0x1021&layout=compact" />
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=curest0x1021&layout=compact" />
 </a>
 </div>
 <!--
