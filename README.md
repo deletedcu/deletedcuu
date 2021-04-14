@@ -48,6 +48,7 @@ Full Stack and client-managed deployments
     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=curest0x1021&layout=compact" />
 </a>
 </div>
+<br/>
 <!--
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=curest0x1021" />
