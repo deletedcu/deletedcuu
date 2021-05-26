@@ -58,7 +58,7 @@ Full Stack and client-managed deployments
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" height="32" alt="CSS3" />
     &nbsp;
     <!-- Node.js -->
-    <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" height="32" alt="Node.js" />
+    <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node-dot-js&logoColor=white" height="32" alt="Node.js" />
     &nbsp;
     <!-- Angular -->
     <img src="https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angularjs&logoColor=white" height="32" alt="Angular" />
@@ -67,7 +67,7 @@ Full Stack and client-managed deployments
     <img src="https://img.shields.io/badge/React-00ccbb?style=flat&logo=react&logoColor=white" height="32" alt="React" />
     &nbsp;
     <!-- Vue.js -->
-    <img src="https://img.shields.io/badge/Vue.js-4fc08d?style=flat&logo=vue.js&logoColor=white" height="32" alt="Vue.js" />
+    <img src="https://img.shields.io/badge/Vue.js-4fc08d?style=flat&logo=vue-dot-js&logoColor=white" height="32" alt="Vue.js" />
     &nbsp;
     <!-- Bootstrap -->
     <img src="https://img.shields.io/badge/Bootstrap-7952b3?style=flat&logo=bootstrap&logoColor=white" height="32" alt="Bootstrap" />
@@ -79,7 +79,7 @@ Full Stack and client-managed deployments
     <img src="https://img.shields.io/badge/PureScript-14161a?style=flat&logo=purescript&logoColor=white" height="32" alt="PureScript" />
     &nbsp;
     <!-- D3.js -->
-    <img src="https://img.shields.io/badge/D3.js-f9a03c?style=flat&logo=d3.js&logoColor=white" height="32" alt="D3.js" />
+    <img src="https://img.shields.io/badge/D3.js-f9a03c?style=flat&logo=d3-dot-js&logoColor=white" height="32" alt="D3.js" />
     &nbsp;
     <!-- NPM -->
     <img src="https://img.shields.io/badge/npm-cb3837?style=flat&logo=npm&logoColor=white" height="32" alt="NPM" />
