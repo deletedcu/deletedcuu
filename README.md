@@ -27,8 +27,11 @@
   - JavaScript (JQuery)
 - Other language/libraries:
   - Proficient in MERN stack (Mongo, Express, React, Node)
-  - PHP, Laravel, Node.js, Angular, jQuery
+  - PHP, Laravel, Node.js, TypeScript, MySQL, Firebase
   - Swift, Objective-C, Java, Kotlin, React Native (currently using)
+- Blockchain technologies:
+  - Solidity, Web3.js, ERC-20 tokens, Truffle
+  - Rust, Cosmos SDK, CosmWasm, Tendermint Core, Terra
 - Proficient with:
   - Learning Python utilizing PyCharm IDE
   - Proficient in SQL 
