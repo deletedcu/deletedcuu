@@ -24,8 +24,6 @@ Proficient in NFT marketplace, Smart Contract Development, ICO & IDO, Smart Cont
 <details>
     <summary>Click here to expand details</summary>
     
-# Experiences and Status
-    
 ## 💻📱 Blockchain | Certified Full Stack Developer ✨✨✨✨✨
 
 ***Blockchain developer-***
