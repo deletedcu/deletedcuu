@@ -88,6 +88,7 @@ JavaScript|ReactJS|CSS3|Terra.js|Git|Code Reviews
 TypeScript|Next.js|styled-components|GraphQL|Docker|Mentorship
 Rust|Cosmwasm|Sass|CosmJS|Jest|Planning
 Solidity|OpenZeppelin|Material-UI|Web3.js|Ubuntu|Estimation
+Kotlin|Spring Boot|Coroutine|Kubernates|Apache Kafka|CI/CD
 
 ## 🏆 My Github Stats:
 <div>
