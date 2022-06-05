@@ -15,8 +15,6 @@
     </a>
 </p>
 
-[github.com/curest0x1021](https://github.com/curest0x1021/) • [cureset.trebow@gmail.com](mailto:curest.trebow@gmail.com)
-
 Creative and flexible professional developer with 9 + years of experience in Web/Mobile/Blockchain development industry.
 Primarily focused on React, Redux, TypeScript, JavaScript, Next.js, Node.js, PHP, Laravel, SQL, NoSQL, GraphQL, AWS.
 Proficient in NFT marketplace, Smart Contract Development, ICO & IDO, Smart Contract Audits, DeFi/DApp Development.
