@@ -78,11 +78,11 @@ Kotlin|Spring Boot|Coroutine|Kubernates|Apache Kafka|CI/CD
 > GitHub Statistics
 <p align="center">
     <a href="https://github.com/curest0x1021">
-        <img height="200em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=curest0x1021&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" />
+        <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=curest0x1021&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" />
     </a>
     <span>&nbsp;&nbsp;</span>
     <a href="https://github.com/curest0x1021">
-        <img height="200em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=curest0x1021&layout=compact&langs_count=8&theme=algolia" />
+        <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=curest0x1021&layout=compact&langs_count=8&theme=algolia" />
     </a>
 <!-- <a href="https://github-readme-stats.vercel.app/api?username=curest0x1021&show_icons=true&theme=tokyonight">
     <img align="left" src="https://github-readme-stats.vercel.app/api?username=curest0x1021&show_icons=true&theme=tokyonight" />
