@@ -1,30 +1,15 @@
-## Thanks for visitng 👋
-
 <p align="center">
-    <span>&nbsp;</span>
-    <a href="https://github.com/curest0x1021/curest0x1021">
-        <img src="https://pageview.vercel.app/?github_user=curest0x1021" alt="GitHub Profile Views" />
-    </a>
-    <span>&nbsp;</span>
-    <a href="https://github.com/curest0x1021?tab=followers">
-        <img src="https://img.shields.io/github/followers/curest0x1021?label=follow&style=flat&color=yellowgreen&logo=github" alt="GitHub Follower Count" />
-    </a>
-    <span>&nbsp;</span>
-    <a href="https://github.com/curest0x1021?tab=stars">
-        <img src="https://img.shields.io/github/stars/curest0x1021?style=flat&color=yellowgreen&logo=github" alt="GitHub Star Count" />
+    <a href="https://github.com/curest0x1021">
+        <img src="https://readme-typing-svg.herokuapp.com/?lines=Full%20Stack%20Blockchain%20developer;Web%20and%20Mobile%20Expert;9%2B%20years%20of%20rich%20experience;Always%20learning%20new%20tech&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22">
     </a>
 </p>
-
-Creative and flexible professional developer with 9 + years of experience in Web/Mobile/Blockchain development industry.
+<p>Creative and flexible professional developer with 9 + years of experience in Web/Mobile/Blockchain development industry.
 Primarily focused on React, Redux, TypeScript, JavaScript, Next.js, Node.js, PHP, Laravel, SQL, NoSQL, GraphQL, AWS.
-Proficient in NFT marketplace, Smart Contract Development, ICO & IDO, Smart Contract Audits, DeFi/DApp Development.
-
-<details>
-    <summary>Click here to expand details</summary>
+Proficient in NFT marketplace, Smart Contract Development, ICO & IDO, Smart Contract Audits, DeFi/DApp Development.</p>
     
-## 💻📱 Blockchain | Certified Full Stack Developer ✨✨✨✨✨
+<!-- ## 💻📱 Blockchain | Certified Full Stack Developer ✨✨✨✨✨ -->
 
-***Blockchain developer-***
+***[Blockchain developer]***
 - Smart Contract Development
     - ERC20, ERC721, ERC721A, ERC1155, BEP20, BEP721, CW20, CW721 standards
     - Contract test and Audit in development environment by using Truffle, Hardhat
@@ -50,7 +35,7 @@ Proficient in NFT marketplace, Smart Contract Development, ICO & IDO, Smart Cont
     - Fiat Withdraw, Deposit function by using Paypal, Stripe, CoinPayment, Perfect Money API integration
     - Well-Structured DB Design
  
-***Full-Stack developer-***
+***[Full-Stack developer]***
 - Object-oriented programming, asynchronous and functional programming
 - ES6/JavaScript proficiency and understanding of JavaScript Design patterns, transpires and module bundlers
 - Server-side programming (Node.js, PHP, Laravel, Python)
@@ -63,7 +48,7 @@ Proficient in NFT marketplace, Smart Contract Development, ICO & IDO, Smart Cont
 - Automated testing platforms and unit tests.
 - Strong analytical skills, problem-solving aptitude, and good communications skills
     
-***Mobile developer-***
+***[Mobile developer]***
 - Native iOS/Android app developement (Swift, Objective-C, Cocoa Touch, Kotlin, Java)
 - React Native app development
 - Mobile app development frameworks (API, testing, deployment, etc. ).
@@ -88,14 +73,46 @@ Rust|Cosmwasm|Sass|CosmJS|Jest|Planning
 Solidity|OpenZeppelin|Material-UI|Web3.js|Ubuntu|Estimation
 Kotlin|Spring Boot|Coroutine|Kubernates|Apache Kafka|CI/CD
 
-## 🏆 My Github Stats:
-<div>
-<a href="https://github-readme-stats.vercel.app/api?username=curest0x1021&show_icons=true&theme=tokyonight">
+## 🏆 My Github Status:
+    
+> GitHub Statistics
+<p align="center">
+    <a href="https://github.com/curest0x1021">
+        <img height="200em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=curest0x1021&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" />
+    </a>
+    <span>&nbsp;&nbsp;</span>
+    <a href="https://github.com/curest0x1021">
+        <img height="200em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=curest0x1021&layout=compact&langs_count=8&theme=algolia" />
+    </a>
+<!-- <a href="https://github-readme-stats.vercel.app/api?username=curest0x1021&show_icons=true&theme=tokyonight">
     <img align="left" src="https://github-readme-stats.vercel.app/api?username=curest0x1021&show_icons=true&theme=tokyonight" />
 </a>
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=curest0x1021&theme=tokyonight">
     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=curest0x1021&theme=tokyonight" />
+</a> -->
+</p>
+    
+> GitHub Activity Graph
+<a href="https://github.com/curest0x1021">
+    <img alt="curest0x1021's Graph" src="https://activity-graph.herokuapp.com/graph?username=curest0x1021&bg_color=0e2239&color=58a6ff&line=114a88&point=58a6ff&hide_border=true"/>
 </a>
-</div>
+<br/>
+<p align="right">
+    <span>&nbsp;</span>
+    <a href="https://github.com/curest0x1021/curest0x1021">
+        <img src="https://pageview.vercel.app/?github_user=curest0x1021" alt="GitHub Profile Views" />
+    </a>
+    <span>&nbsp;</span>
+    <a href="https://github.com/curest0x1021?tab=followers">
+        <img src="https://img.shields.io/github/followers/curest0x1021?label=follow&style=flat&color=yellowgreen&logo=github" alt="GitHub Follower Count" />
+    </a>
+    <span>&nbsp;</span>
+    <a href="https://github.com/curest0x1021?tab=stars">
+        <img src="https://img.shields.io/github/stars/curest0x1021?style=flat&color=yellowgreen&logo=github" alt="GitHub Star Count" />
+    </a>
+</p>
+    
+##  📊 Stats:
 
-</details>
+[![Metrics](https://metrics.lecoq.io/curest0x1021?template=classic&base.header=0&base.metadata=0&isocalendar=1&languages=1&people=1&isocalendar.duration=half-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.recent.load=300&languages.recent.days=14&people.limit=24&people.size=28&people.types=followers%2C%20following&people.identicons=false&people.shuffle=false&config.timezone=Asia%2FCalcutta)](https://www.github.com/curest0x1021)
+
