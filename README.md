@@ -44,6 +44,7 @@ Proficient in NFT marketplace, Smart Contract Development, ICO & IDO, Smart Cont
 - Strong encryption methodologies, common authentication patterns
 - SQL, NoSQL database schemas and ORMs that both support business process and promote scalability
 - Proficiency in integrating production-grade Node.js applications with REST endpoints and NoSQL/Graph DB engines
+- AWS Lambda, DynamoDB, SES, CloudFormation, CloudWatch, EC2, S3, API Gateway
 - Familiar with CI/CD (git, Jenkins), Docker, Kubernetes
 - Automated testing platforms and unit tests.
 - Strong analytical skills, problem-solving aptitude, and good communications skills
