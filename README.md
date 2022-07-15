@@ -1,9 +1,9 @@
 <p align="center">
     <a href="https://github.com/curest0x1021">
-        <img src="https://readme-typing-svg.herokuapp.com/?lines=Full%20Stack%20Blockchain%20developer;Web%20and%20Mobile%20Expert;9%2B%20years%20of%20rich%20experience;Always%20learning%20new%20tech&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22">
+        <img src="https://readme-typing-svg.herokuapp.com/?lines=Full%20Stack%20Blockchain%20developer;Web%20and%20Mobile%20Expert;10%2B%20years%20of%20rich%20experience;Always%20learning%20new%20tech&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22">
     </a>
 </p>
-<p>Creative and flexible professional developer with 9 + years of experience in Web/Mobile/Blockchain development industry.
+<p>Creative and flexible professional developer with 10 + years of experience in Web/Mobile/Blockchain development industry.
 Primarily focused on React, Redux, TypeScript, JavaScript, Next.js, Node.js, PHP, Laravel, SQL, NoSQL, GraphQL, AWS.
 Proficient in NFT marketplace, Smart Contract Development, ICO & IDO, Smart Contract Audits, DeFi/DApp Development.</p>
     
