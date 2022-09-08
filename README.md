@@ -92,11 +92,13 @@ Kotlin|Spring Boot|Coroutine|Kubernates|Apache Kafka|CI/CD
     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=curest0x1021&theme=tokyonight" />
 </a> -->
 </p>
-    
+
+<!--
 > GitHub Activity Graph
 <a href="https://github.com/curest0x1021">
     <img alt="curest0x1021's Graph" src="https://activity-graph.herokuapp.com/graph?username=curest0x1021&bg_color=0e2239&color=58a6ff&line=114a88&point=58a6ff&hide_border=true"/>
 </a>
+-->
 <br/>
 <p align="right">
     <span>&nbsp;</span>
