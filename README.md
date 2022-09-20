@@ -3,6 +3,20 @@
         <img src="https://readme-typing-svg.herokuapp.com/?lines=Full%20Stack%20Blockchain%20developer;Web%20and%20Mobile%20Expert;10%2B%20years%20of%20rich%20experience;Always%20learning%20new%20tech&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22">
     </a>
 </p>
+<p align="center">
+    <span>&nbsp;</span>
+    <a href="https://github.com/curest0x1021/curest0x1021">
+        <img src="https://pageview.vercel.app/?github_user=curest0x1021" alt="GitHub Profile Views" />
+    </a>
+    <span>&nbsp;</span>
+    <a href="https://github.com/curest0x1021?tab=followers">
+        <img src="https://img.shields.io/github/followers/curest0x1021?label=follow&style=flat&color=yellowgreen&logo=github" alt="GitHub Follower Count" />
+    </a>
+    <span>&nbsp;</span>
+    <a href="https://github.com/curest0x1021?tab=stars">
+        <img src="https://img.shields.io/github/stars/curest0x1021?style=flat&color=yellowgreen&logo=github" alt="GitHub Star Count" />
+    </a>
+</p>
 <p>Creative and flexible professional developer with 10 + years of experience in Web/Mobile/Blockchain development industry.
 Primarily focused on React, Redux, TypeScript, JavaScript, Next.js, Node.js, PHP, Laravel, SQL, NoSQL, GraphQL, AWS.
 Proficient in NFT marketplace, Smart Contract Development, ICO & IDO, Smart Contract Audits, DeFi/DApp Development.</p>
@@ -75,8 +89,9 @@ Solidity|OpenZeppelin|Material-UI|Web3.js|Ubuntu|Estimation
 Kotlin|Spring Boot|Coroutine|Kubernates|Apache Kafka|CI/CD
 
 ## 🏆 My Github Status:
-    
+
 > GitHub Statistics
+
 <p align="center">
     <a href="https://github.com/curest0x1021">
         <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=curest0x1021&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" />
@@ -84,6 +99,9 @@ Kotlin|Spring Boot|Coroutine|Kubernates|Apache Kafka|CI/CD
     <span>&nbsp;&nbsp;</span>
     <a href="https://github.com/curest0x1021">
         <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=curest0x1021&layout=compact&langs_count=8&theme=algolia" />
+    </a>
+    <a href="https://github.com/curest0x1021">
+        <img height="180em" src="https://streak-stats.demolab.com/?user=curest0x1021&theme=algolia"/>
     </a>
 <!-- <a href="https://github-readme-stats.vercel.app/api?username=curest0x1021&show_icons=true&theme=tokyonight">
     <img align="left" src="https://github-readme-stats.vercel.app/api?username=curest0x1021&show_icons=true&theme=tokyonight" />
@@ -99,21 +117,7 @@ Kotlin|Spring Boot|Coroutine|Kubernates|Apache Kafka|CI/CD
     <img alt="curest0x1021's Graph" src="https://activity-graph.herokuapp.com/graph?username=curest0x1021&bg_color=0e2239&color=58a6ff&line=114a88&point=58a6ff&hide_border=true"/>
 </a>
 -->
-<br/>
-<p align="right">
-    <span>&nbsp;</span>
-    <a href="https://github.com/curest0x1021/curest0x1021">
-        <img src="https://pageview.vercel.app/?github_user=curest0x1021" alt="GitHub Profile Views" />
-    </a>
-    <span>&nbsp;</span>
-    <a href="https://github.com/curest0x1021?tab=followers">
-        <img src="https://img.shields.io/github/followers/curest0x1021?label=follow&style=flat&color=yellowgreen&logo=github" alt="GitHub Follower Count" />
-    </a>
-    <span>&nbsp;</span>
-    <a href="https://github.com/curest0x1021?tab=stars">
-        <img src="https://img.shields.io/github/stars/curest0x1021?style=flat&color=yellowgreen&logo=github" alt="GitHub Star Count" />
-    </a>
-</p>
+
     
 ##  📊 Stats:
 
