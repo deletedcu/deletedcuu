@@ -84,7 +84,7 @@ Proficient in NFT marketplace, Smart Contract Development, ICO & IDO, Smart Cont
 :-----:|:-----:|:-----:|:-----:|:-----:|:-----:
 JavaScript|ReactJS|CSS3|Terra.js|Git|Code Reviews
 TypeScript|Next.js|styled-components|GraphQL|Docker|Mentorship
-Rust|Cosmwasm|Sass|CosmJS|Jest|Planning
+PHP|Cosmwasm|Sass|CosmJS|Jest|Planning
 Solidity|OpenZeppelin|Material-UI|Web3.js|Ubuntu|Estimation
 Kotlin|Spring Boot|Coroutine|Kubernates|Apache Kafka|CI/CD
 
